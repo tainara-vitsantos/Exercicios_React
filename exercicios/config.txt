@@ -1,0 +1,7 @@
+
+// Atalho para arquivo JSX
+// digitar RAFCEM e pressionar Tab / Enter
+
+
+git config --global user.name "Tainara Santos"
+git config --global user.email "tainaravit.santos28@gmail.com"
